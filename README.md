@@ -1,2 +1,4 @@
 # AZZOTTO
-A Digital Broadcasting Service Platform - https://github.com/Azoto-Media
+A Digital Broadcasting Service Platform in News, Entertainment, Publications, Advertising, Business, Wealth Management, Property and Sports
+- https://github.com/Azoto-Media
+- azzotto.com
